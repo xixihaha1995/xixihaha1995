@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning: [Intro To Operating System](https://omscs.gatech.edu/cs-6200-introduction-operating-systems)
+- 🌱 I’m currently learning: [Deep Learning](https://omscs.gatech.edu/cs-7643-deep-learning)
 - 📫 How to reach me: [Learning Notes](https://www.youtube.com/channel/UCmEPVOW80o_JTszdjFswlsg?view_as=subscriber)
 
 
