@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning: [Deep Learning](https://omscs.gatech.edu/cs-7643-deep-learning)
+- 🌱 I’m currently learning: [Intro to Graduate Algorithms](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms)
 - 📫 How to reach me: [Learning Notes](https://www.youtube.com/channel/UCmEPVOW80o_JTszdjFswlsg?view_as=subscriber)
 
 
