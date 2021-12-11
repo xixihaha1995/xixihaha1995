@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning: [Intro to Graduate Algorithms](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms)
-- 📫 How to reach me: [Learning Notes](https://www.youtube.com/channel/UCmEPVOW80o_JTszdjFswlsg?view_as=subscriber)
+- 🌱 I’m currently learning: [Network Security](https://omscs.gatech.edu/cs-6262-network-security)
+
 
 
 
