@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning: [Network Security](https://omscs.gatech.edu/cs-6262-network-security)
+- 🌱 I’m currently learning: [CSAPP](http://csapp.cs.cmu.edu/3e/labs.html)
 
 
 
