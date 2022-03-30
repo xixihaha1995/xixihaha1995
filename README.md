@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning: [CSAPP](http://csapp.cs.cmu.edu/3e/labs.html)
+- 🌱 I’m currently learning: [CPP STL](https://en.cppreference.com/w/cpp/container)
 
 
 
