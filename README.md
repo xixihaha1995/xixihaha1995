@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an [OMSCS](https://omscs.gatech.edu/) graduate, and my favoriate course are [GIOS](https://omscs.gatech.edu/cs-6200-introduction-operating-systems) and [Network Security](https://omscs.gatech.edu/cs-6262-network-security).
+I'm an [OMSCS](https://omscs.gatech.edu/) graduate, and my favoriate courses are [GIOS](https://omscs.gatech.edu/cs-6200-introduction-operating-systems) and [Network Security](https://omscs.gatech.edu/cs-6262-network-security).
 Thanks to my **Computer Science** background, I'm doing **interesting** building simulation:
 1. integrating homogeneous urban microclimate into [EnergyPlus](https://github.com/NREL/EnergyPlus) through [semaphore](https://github.com/xixihaha1995/VCWG_EP_Scalar_Vector);
 2. integrating heterogeneous urban microclimate into Urban Building Energy Modeling (still powered through EnergyPlus engine) through [Message Passing Interface](https://github.com/xixihaha1995/MPI-WRF-EnergyPlus/tree/main) on [NCAR supercomputer](https://www.cisl.ucar.edu/ncar-supercomputing-history).
