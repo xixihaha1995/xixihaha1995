@@ -5,8 +5,7 @@ Thanks to my **Computer Science** background, I've done some **interesting** bui
 * 08/2024, I have submitted two abstracts for [BuildingSimulation2025](https://bs2025.org/abstracts), one is about enhancing Urban Building Energy Modeling, another is about Model Predictive Control.
 * 09/2023, integrating heterogeneous urban microclimate into Urban Building Energy Modeling (still powered through EnergyPlus engine) through [Message Passing Interface](https://github.com/xixihaha1995/MPI-WRF-EnergyPlus/tree/main) on [NCAR supercomputer](https://www.cisl.ucar.edu/ncar-supercomputing-history), [presented](http://dx.doi.org/10.13140/RG.2.2.36195.53284) at conference.
 * 10/2022, integrating homogeneous urban microclimate into [EnergyPlus](https://github.com/NREL/EnergyPlus) through [semaphore](https://github.com/xixihaha1995/VCWG_EP_Scalar_Vector), [publised](http://dx.doi.org/10.1016/j.buildenv.2023.111059).
-
-
+***
 - [Google Scholar](https://scholar.google.com/citations?user=DeVIvkkAAAAJ)
 - [LinkedIn](https://www.linkedin.com/in/wulichen/)
 
