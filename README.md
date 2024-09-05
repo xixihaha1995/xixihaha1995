@@ -10,6 +10,7 @@ With my background in Computer Science and Civil Engineering, I have worked on s
 ***
 - [Google Scholar](https://scholar.google.com/citations?user=DeVIvkkAAAAJ)
 - [LinkedIn](https://www.linkedin.com/in/wulichen/)
+- <wulicheneason@gmail.com>
 
 <!-- 
 This too
