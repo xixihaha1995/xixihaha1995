@@ -9,9 +9,10 @@ With my background in Computer Science and Civil Engineering, I have worked on s
 * 11/2021, contributed the energy simulation for one research about [reconfigurable building material](https://doi.org/10.1021/acsenergylett.2c00419)  that dynamically regulates radiative cooling and solar heat gain.
 ***
 - <wulicheneason@gmail.com>
+- 微信: VIP95666666
 - [LinkedIn](https://www.linkedin.com/in/wulichen/)
 - [Google Scholar](https://scholar.google.com/citations?user=DeVIvkkAAAAJ)
-- 微信: VIP95666666
+
 
 
 <!-- 
