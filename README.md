@@ -8,9 +8,10 @@ With my background in Computer Science and Civil Engineering, I have worked on s
 * 7/2022, proposed one machine learning approach for predicting energy use of hydronic radiant slab system, presented at 7th International High Performance Buildings [Conference](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1413&context=ihpbc) at Purdue.
 * 11/2021, contributed the energy simulation for one research about [reconfigurable building material](https://doi.org/10.1021/acsenergylett.2c00419)  that dynamically regulates radiative cooling and solar heat gain.
 ***
-- [Google Scholar](https://scholar.google.com/citations?user=DeVIvkkAAAAJ)
-- [LinkedIn](https://www.linkedin.com/in/wulichen/)
 - <wulicheneason@gmail.com>
+- [LinkedIn](https://www.linkedin.com/in/wulichen/)
+- [Google Scholar](https://scholar.google.com/citations?user=DeVIvkkAAAAJ)
+
 
 <!-- 
 This too
