@@ -1,4 +1,4 @@
-### Lichen Wu
+### Lichen Wu (吴利臣)
 
 I'm a 2022 [OMSCS](https://omscs.gatech.edu/) alum, and my favoriate courses are [GIOS](https://omscs.gatech.edu/cs-6200-introduction-operating-systems) and [Network Security](https://omscs.gatech.edu/cs-6262-network-security).
 With my background in Computer Science and Civil Engineering, I have worked on several interesting building simulations:
@@ -11,6 +11,7 @@ With my background in Computer Science and Civil Engineering, I have worked on s
 - <wulicheneason@gmail.com>
 - [LinkedIn](https://www.linkedin.com/in/wulichen/)
 - [Google Scholar](https://scholar.google.com/citations?user=DeVIvkkAAAAJ)
+- 微信: VIP95666666
 
 
 <!-- 
