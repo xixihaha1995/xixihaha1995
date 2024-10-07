@@ -1,6 +1,6 @@
 ### Lichen Wu (吴利臣)
 
-I'm a 2022 [OMSCS](https://omscs.gatech.edu/) alum, and my favoriate courses are [GIOS](https://omscs.gatech.edu/cs-6200-introduction-operating-systems) and [Network Security](https://omscs.gatech.edu/cs-6262-network-security).
+I'm a 2022 [OMSCS](https://omscs.gatech.edu/) alum.
 With my background in Computer Science, I have worked on several interesting building simulations as a Graduate Research Fellow:
 * 08/2024, I have submitted two abstracts for [BuildingSimulation2025](https://bs2025.org/abstracts), one is about enhancing Urban Building Energy Modeling, another is about Model Predictive Control for Controlled Environment Agriculture (CEA).
 * 09/2023, integrating heterogeneous urban microclimate modeling into Urban Building Energy Modeling (still powered through EnergyPlus engine) through [Message Passing Interface](https://github.com/xixihaha1995/MPI-WRF-EnergyPlus/tree/main) on [NCAR High Performance Computing system](https://www.cisl.ucar.edu/ncar-supercomputing-history), [presented via poster](http://dx.doi.org/10.13140/RG.2.2.36195.53284) at conference.
@@ -12,6 +12,7 @@ With my background in Computer Science, I have worked on several interesting bui
 - 微信: VIP95666666
 - [LinkedIn](https://www.linkedin.com/in/wulichen/)
 - [Google Scholar](https://scholar.google.com/citations?user=DeVIvkkAAAAJ)
+- Fav courses of OMSCS: [GIOS](https://omscs.gatech.edu/cs-6200-introduction-operating-systems) and [Network Security](https://omscs.gatech.edu/cs-6262-network-security)
 
 
 
