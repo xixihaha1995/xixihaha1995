@@ -2,6 +2,8 @@
 
 I'm a 2022 [OMSCS](https://omscs.gatech.edu/) alum.
 With my background in Computer Science, I have worked on several interesting building simulations as a Graduate Research Fellow:
+
+* 11/2024, I have submitted one abstract for [ASHRAE Annual Conference 2025](https://www.ashrae.org/about/news/2024/ashrae-announces-call-for-abstracts-for-2025-annual-conference-in-phoenix).
 * 08/2024, I have submitted two abstracts for [BuildingSimulation2025](https://bs2025.org/abstracts), one is about enhancing Urban Building Energy Modeling, another is about Model Predictive Control for [Controlled Environment Agriculture (CEA)](https://www.uwyo.edu/research/si/centers/cea/team.html).
 * 09/2023, integrating heterogeneous urban microclimate modeling into Urban Building Energy Modeling (still powered through EnergyPlus engine) through [Message Passing Interface](https://github.com/xixihaha1995/MPI-WRF-EnergyPlus/tree/main) on [NCAR High Performance Computing system](https://www.cisl.ucar.edu/ncar-supercomputing-history), [presented via poster](http://dx.doi.org/10.13140/RG.2.2.36195.53284) at conference.
 * 10/2022, integrating homogeneous urban microclimate modeling into [EnergyPlus](https://github.com/NREL/EnergyPlus) through [semaphore](https://github.com/xixihaha1995/VCWG_EP_Scalar_Vector), [publised](http://dx.doi.org/10.1016/j.buildenv.2023.111059).
