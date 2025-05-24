@@ -2,6 +2,7 @@
 
 I'm a 2022 [OMSCS](https://omscs.gatech.edu/) alum.
 With my background in Computer Science, I have worked on several interesting building simulations as a Graduate Research Fellow:
+* 5/2025 - 7/2025, I will contribute to the [modeling and operation for resource-efficient CEA](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2349765&HistoricalAwards=false).
 * 1/2025, We have submitted two abstracts to [CIGRE 2025 International Symposium](https://cigre.ca/2025/en/).
 * 11/2024, I have submitted one abstract to [ASHRAE Annual Conference 2025](https://www.ashrae.org/about/news/2024/ashrae-announces-call-for-abstracts-for-2025-annual-conference-in-phoenix).
 * 08/2024, I have submitted two abstracts to [Building Simulation 2025](https://bs2025.org/abstracts), one is about enhancing Urban Building Energy Modeling, another is about Model Predictive Control for [Controlled Environment Agriculture (CEA)](https://www.uwyo.edu/research/si/centers/cea/team.html).
