@@ -15,7 +15,7 @@ With my background in Computer Science, I have worked on several interesting bui
 - 微信: VIP95666666
 - [LinkedIn](https://www.linkedin.com/in/wulichen/)
 - [Google Scholar](https://scholar.google.com/citations?user=DeVIvkkAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Lichen-Wu-4)
-- Fav courses of OMSCS: [GIOS](https://omscs.gatech.edu/cs-6200-introduction-operating-systems) and [Network Security](https://omscs.gatech.edu/cs-6262-network-security)
+- Fav OMSCS courses: [GIOS](https://omscs.gatech.edu/cs-6200-introduction-operating-systems) and [Network Security](https://omscs.gatech.edu/cs-6262-network-security)
 <!-- 
 This too
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xixihaha1995)](https://github.com/anuraghazra/github-readme-stats)
