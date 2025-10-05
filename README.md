@@ -15,7 +15,7 @@ With my background in Computer Science, I have worked on several interesting bui
 - <a href="mailto:wulicheneason@gmail.com"> Email</a>
 - 微信: VIP95666666
 - [LinkedIn](https://www.linkedin.com/in/wulichen/)
-- [Google Scholar](https://scholar.google.com/citations?user=DeVIvkkAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Lichen-Wu-4
+- [Google Scholar](https://scholar.google.com/citations?user=DeVIvkkAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Lichen-Wu-4)
 - Fav OMSCS courses: [GIOS](https://omscs.gatech.edu/cs-6200-introduction-operating-systems) and [Network Security](https://omscs.gatech.edu/cs-6262-network-security)
 <!-- 
 This too
