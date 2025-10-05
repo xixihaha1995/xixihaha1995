@@ -2,6 +2,7 @@
 
 I'm a 2022 [OMSCS](https://omscs.gatech.edu/) alum.
 With my background in Computer Science, I have worked on several interesting building simulations as a Graduate Research Fellow:
+* 8/2025 - Present, 仰观宇宙之大，俯察品类之盛，所以游目骋怀，足以极视听之娱，信可乐也。
 * 5/2025 - 7/2025, I work on building [control](https://github.com/xixihaha1995/rl-control). (Ref: modeling and [operation for resource-efficient CEA](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2349765&HistoricalAwards=false).)
 * 1/2025, We have submitted two abstracts to [CIGRE 2025 International Symposium](https://cigre.ca/2025/en/).
 * 11/2024, I have submitted one abstract to [ASHRAE Annual Conference 2025](https://www.ashrae.org/about/news/2024/ashrae-announces-call-for-abstracts-for-2025-annual-conference-in-phoenix).
